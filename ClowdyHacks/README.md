@@ -50,7 +50,7 @@ Zaquariah Holland, Ivan Castro, Luis Banda, Travis Sauer
 - PHP
 - HTML
 
-# Resoruces
+# Resources
 - [S3 Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html)
 - [Google Dialogflow](https://cloud.google.com/dialogflow/docs)
 - [Video Demo](https://www.youtube.com/watch?v=XJxNFb2y3fw)
